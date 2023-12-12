@@ -1,0 +1,2 @@
+# LeetCodeTraining
+practicing leetcode!
